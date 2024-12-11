@@ -1,6 +1,7 @@
 # pta-review-assistant PTA题目导出助手
 导出PTA中的题目为word,方便打印、导入第三方刷题软件（比如微信小程序佛脚刷题）
 greasyfork地址: https://greasyfork.org/zh-CN/scripts/520041-pta%E9%A2%98%E7%9B%AE%E5%AF%BC%E5%87%BA%E5%8A%A9%E6%89%8B
+git地址: https://github.com/Free-LZJ/pta-review-assistant
 
 # 使用方法
 脚本目前只支持选择题(单选、多选)
